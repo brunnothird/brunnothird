@@ -10,9 +10,6 @@ Tive uma carreira focada em RH em empresas de diferentes empresas e setores e ag
 - **Visualização:** PowerBI e Excel Avançado.
 - **Interesses:** People Analytics, Modelagem Preditiva e Otimização de Processos.
 
-### 🚀 Projetos em Destaque
-- [Projeto1] - *Breve Descrição*
-- [Projeto2] - *Breve Descrição*
 
 ### 💬 Vamos nos conectar?
 - [LinkedIn](https://www.linkedin.com/in/brunno-terceiro/)
